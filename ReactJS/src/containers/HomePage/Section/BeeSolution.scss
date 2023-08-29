@@ -1,0 +1,101 @@
+@media (min-width: 1025px) {
+    .beesolution {
+        position: relative;
+        width: 278px;
+        height: 460px;
+        text-align: center;
+        border-radius: 20px;
+        background-image: linear-gradient(180deg, rgb(247, 234, 151) 0%, rgb(255, 255, 255) 100%);
+
+        .heading {
+            font-size: 20px;
+            font-weight: 600;
+            margin-top: 30px;
+            text-align: center;
+            padding: 0 16px;
+        }
+
+        p {
+            position: absolute;
+            font-size: 16px;
+            font-weight: 600;
+            margin: 30px 15px;
+            top: 110px;
+            opacity: 0.8;
+        }
+    }
+
+    .section-bee-solution {
+        .section-bee-solution-header {
+            font-size: 40px;
+            line-height: 54px;
+            font-weight: 600;
+            text-align: center;
+            margin: 60px 0;
+        }
+
+        .section-bee-solution-content {
+            max-width: 1200px;
+            height: 560px;
+            margin: 0 auto;
+            display: flex;
+            justify-content: space-between;
+
+            button {
+                position: absolute;
+                bottom: 0;
+                left: 50%;
+                transform: translateX(-50%);
+            }
+        }
+    }
+}
+
+@media (max-width: 740px) {
+    .section-bee-solution {
+        .section-bee-solution-header {
+            font-size: 32px;
+            font-weight: 600;
+            line-height: 44px;
+            text-align: center;
+            margin-top: 40px;
+        }
+
+        .section-bee-solution-content {
+            display: block;
+
+            .beesolution {
+                position: relative;
+                height: 400px;
+                text-align: center;
+                margin: 80px auto;
+                width: 86%;
+                border-radius: 20px;
+                background-image: linear-gradient(180deg, rgb(247, 234, 151) 0%, rgb(255, 255, 255) 100%);
+
+                .heading {
+                    font-size: 20px;
+                    font-weight: 600;
+                    margin-top: 60px;
+                    text-align: center;
+                    padding: 20px 16px;
+                }
+
+                p {
+                    font-size: 16px;
+                    font-weight: 600;
+                    margin: 20px 15px;
+                    top: 110px;
+                    opacity: 0.8;
+                }
+
+                button {
+                    position: absolute;
+                    left: 50%;
+                    transform: translateX(-50%);
+                    bottom: 0;
+                }
+            }
+        }
+    }
+}

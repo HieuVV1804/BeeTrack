@@ -1,0 +1,11 @@
+/node_modules
+/reactjs/node_modules
+/vendor
+/.idea
+.idea/
+.env
+/.pnp
+.pnp.js
+/coverage
+
+

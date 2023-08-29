@@ -1,0 +1,45 @@
+{
+  "name": "beetracking",
+  "version": "1.0.0",
+  "description": "backend nodejs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon --exec babel-node src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HieuVV1804/BeeTracking_Web.git"
+  },
+  "keywords": [
+    "TrackingBee",
+    "nodejs"
+  ],
+  "author": "hieuvv1804",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HieuVV1804/BeeTracking_Web/issues"
+  },
+  "homepage": "https://github.com/HieuVV1804/BeeTracking_Web#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "jsonwebtoken": "^9.0.1",
+    "mysql2": "^2.2.5",
+    "nodemailer": "^6.9.4",
+    "sequelize": "^6.31.0",
+    "tedious": "^16.1.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.12.10",
+    "@babel/node": "^7.12.10",
+    "@babel/preset-env": "^7.12.10",
+    "bcrypt": "^5.0.1",
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.20.1",
+    "dotenv": "^8.2.0",
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "nodemon": "^2.0.22",
+    "sequelize-cli": "^6.2.0"
+  }
+}

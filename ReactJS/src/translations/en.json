@@ -1,0 +1,87 @@
+{
+    "homeheader": {
+        "solution": "BeeSolution",
+        "care": "BeeCare",
+        "about": "About",
+        "new": "Blog",
+        "research": "Research",
+        "login": "Login",
+        "register": "Register",
+        "language": "Language",
+        "welcome": "Welcome,"
+    },
+    "subsolution": {
+        "breed": "BeeBreed",
+        "note": "BeeNote",
+        "honey": "BeeHoney",
+        "check": "BeeCheck"
+    },
+    "banner": {
+        "title1": "BeeTrack Solutions",
+        "title2": "For Beekeepers",
+        "desc": "BeeTrack is a research project on honeybees, providing effective and standardized methods and techniques for beekeeping. With a team of highly specialized experts and extensive research experience, together with a professional working process, BeeTrack helps beekeepers optimize their beekeeping practices, tightly control their products, and achieve clear and efficient traceability of the origin.",
+        "btn-contact": "Contact Us"
+    },
+    "bee-solution": {
+        "title": "Bee Solution",
+        "btn-view": "View Details",
+        "breed-heading": "Breeding Method of Bees",
+        "note-heading": "Beehive Index Tracking Journal",
+        "honey-heading": "Methods of Production, Preservation, and Processing",
+        "check-heading": "Product Origin Traceability",
+        "breed-content": "Develop a method for selecting honeybee breeds and queen bees based on successful laboratory studies and experiments. Evaluate the effectiveness of the method when applied to production and mass cultivation, serving the purpose of product origin traceability and improving the quality of honey.",
+        "note-content": "Application of technology in the field of IoT, placing sensors for monitoring changes in beehives such as images, temperature, humidity, sound, etc. The data is continuously collected, stored, and analyzed in a transparent manner to provide intervention solutions and improve the health of bee colonies."
+    },
+    "section-general": {
+        "title1": "Why choose BeeTrack",
+        "heading1": "Reliability",
+        "heading2": "Quality",
+        "heading3": "Agility",
+        "desc1": "Adhering to commitments, maintaining technical standards, being flexible in overcoming challenges, and fully meeting the needs of beekeepers.",
+        "desc2": "The service has been evaluated by the Ministry of Science and Technology. It ensures stable quality and delivers the highest level of effectiveness.",
+        "desc3": "Through proactive research and continuous innovation, we always adapt quickly and effectively to new challenges."
+    },
+    "about": {
+        "title": "Industry 4.0 technology in beekeeping",
+        "description": "BeeTrack is a combination of technological solutions such as BeeBreed for bee breeding selection, BeeNote for bee care, nurturing, and honey harvesting, BeeHoney for purchasing, preserving, and processing honey, and BeeCheck for origin tracing. Particularly, BeeNote is equipped with sensors for temperature, humidity, sound, image, and hive weight. Beekeepers can care for and harvest honey using precise techniques, while export companies can better manage product quality. Trade partners can also monitor the entire beekeeping process, including nurturing, harvesting, preservation, packaging, and transportation."
+    },
+    "section-beecare": {
+        "heading": "Schedule a Consultation with us to solve your IT issues",
+        "desc": "Tell us about yourself and what you have in mind, and we'll be in touch in lightning speed.",
+        "btn": "Confirm",
+        "fullname": "Full name:",
+        "email": "Email:",
+        "phone": "Phone:",
+        "message": "Message:",
+        "writeEmail": "Enter your email",
+        "writeFullname": "Enter your fullname",
+        "writePhoneNumber": "Enter your phone number",
+        "writeMessage": "Wirte your message"
+    },
+    "footer": {
+        "location": " Location: Rom 910, B1 Building, Hanoi University of Science and Technology",
+        "phone": "Phone",
+        "navigate": "Navigate",
+        "policy": "Privacy Policy",
+        "support": "Support"
+    },
+    "login": {
+        "login": "Login",
+        "username": "Username",
+        "password": "Password",
+        "userpass-wrong": "Invalid username or password!"
+    },
+    "menu": {
+        "system": {
+            "header": "System",
+            "system-administrator": {
+                "header": "System Administrator",
+                "user-manage": "User manage",
+                "user-redux": "Package manage redux"
+            },
+            "system-parameter": {
+                "header": "System-parameter"
+            }
+        }
+    }
+}

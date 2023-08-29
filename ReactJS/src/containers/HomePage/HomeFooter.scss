@@ -1,0 +1,100 @@
+@media (min-width: 1025px) {
+    .home-footer {
+
+        background-color: #121212;
+
+        .home-footer-content {
+            max-width: 1200px;
+            margin: 0 auto;
+            display: flex;
+
+            .home-footer-content-col {
+                margin-top: 30px;
+                width: 25%;
+                color: #fff;
+
+                .home-footer-content-col-heading {
+                    font-size: 16px;
+                    font-weight: 600;
+                    text-transform: uppercase;
+                }
+
+                .home-footer-content-col-list {
+                    margin-top: 50px;
+                    list-style: none;
+                    padding: 0 40px 0 0;
+
+                    li {
+                        padding: 10px 40px 10px 0;
+
+                        a {
+                            text-decoration: none;
+                            color: #fff;
+                        }
+
+                        &:hover a {
+                            color: #f7d800;
+                        }
+                    }
+                }
+
+            }
+        }
+
+        .home-footer-copyright {
+            text-align: center;
+            color: rgb(243, 236, 236);
+
+            .home-footer-copyright-text {
+                padding-bottom: 10px;
+            }
+        }
+    }
+}
+
+@media (max-width: 740px) {
+    .home-footer {
+        background-color: #121212;
+
+        .home-footer-content {
+            .home-footer-content-col {
+                color: #fff;
+
+                .home-footer-content-col-heading {
+                    padding: 20px 30px;
+                    font-size: 20px;
+                    font-weight: 600;
+                }
+
+                .home-footer-content-col-list {
+                    list-style: none;
+                    padding-right: 30px;
+
+                    li {
+                        margin: 14px 0;
+
+                        a {
+                            font-size: 14px;
+                            text-decoration: none;
+                            color: #fff;
+                        }
+
+                        &:hover a {
+                            color: #f7d800;
+                        }
+                    }
+                }
+            }
+        }
+
+        .home-footer-copyright {
+            text-align: center;
+            color: rgb(243, 236, 236);
+
+            .home-footer-copyright-text {
+                padding-bottom: 10px;
+            }
+        }
+
+    }
+}

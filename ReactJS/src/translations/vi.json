@@ -1,0 +1,87 @@
+{
+    "homeheader": {
+        "solution": "Giải pháp",
+        "care": "Tư vấn",
+        "about": "Thông tin",
+        "new": "Blog",
+        "research": "Nghiên cứu",
+        "login": "Đăng nhập",
+        "register": "Đăng kí",
+        "language": "Ngôn ngữ",
+        "welcome": "Xin chào,"
+    },
+    "subsolution": {
+        "breed": "Chọn giống",
+        "note": "Theo dõi",
+        "honey": "Sản xuất",
+        "check": "Nguồn gốc"
+    },
+    "banner": {
+        "title1": "BeeTrack Solutions",
+        "title2": "For Beekeepers",
+        "btn-contact": "Liên hệ chúng tôi",
+        "desc": "BeeTrack là một dự án nghiên cứu về ong mật, tập trung vào việc cung cấp các phương pháp và kỹ thuật nuôi ong hiệu quả và đồng nhất cho những người nuôi ong. Với đội ngũ chuyên gia giàu kinh nghiệm và chuyên môn cao trong lĩnh vực nghiên cứu, cùng với quy trình làm việc chuyên nghiệp, BeeTrack giúp người nuôi ong tối ưu hóa việc nuôi ong, kiểm soát sản phẩm một cách chặt chẽ, và đạt được truy xuất nguồn gốc rõ ràng và hiệu quả nhất. "
+    },
+    "bee-solution": {
+        "title": "Giải pháp",
+        "btn-view": "Xem chi tiết",
+        "breed-heading": "Phương pháp chọn giống ong",
+        "note-heading": "Nhật ký theo dõi chỉ số tổ ong",
+        "honey-heading": "Phương pháp sản xuất bảo quản chế biến",
+        "check-heading": "Truy xuất nguồn gốc sản phẩm",
+        "breed-content": "Xây dựng phương pháp chọn giống ong mật, ong chúa dựa trên các nghiên cứu, thử nghiệm thành công trong phòng thí nghiệm. Đánh giá hiệu quả đưa vào sản xuất, nuôi cấy hàng loạt phục vụ cho việc truy xuất nguồn gốc và nâng cao chất lượng mật",
+        "note-content": "Ứng dụng công nghệ trong lĩnh vực IoT, đặt các cảm biến ảnh, nhiệt độ, độ ẩm, âm thanh,.. để theo dõi các thay đổi của tổ ong. Dữ liệu được thu thập liên tục, được lưu lại và phân tích, minh bạch trong số liệu để đưa ra các giải pháp can thiệp và cải thiện sức khỏe đàn ong."
+    },
+    "section-general": {
+        "title1": "Tại sao chọn BeeTrack",
+        "heading1": "Sự tin cậy",
+        "heading2": "Chất lượng",
+        "heading3": "Sự linh hoạt",
+        "desc1": "Thực hiện đúng các cam kết, duy trì tiêu chuẩn kĩ thuật, linh hoạt vượt qua các thách thức và đáp ứng đầy đủ nhu cầu của người nuôi ong.",
+        "desc2": "Dịch vụ được nghiệm thu bởi Bộ KHCN. Chất lượng ổn định đảm bảo hiệu quả cao nhất.",
+        "desc3": "Thông qua việc chủ động nghiên cứu và không ngừng đổi mới, chúng tôi luôn thích ứng nhanh chóng, hiệu quả trước những thách thức mới."
+    },
+    "about": {
+        "title": "Công nghệ 4.0 trong nuôi ong",
+        "description": "BeeTrack là tổ hợp các giải pháp công nghệ như: Chọn giống ong (BeeBreed), chăm sóc nuôi dưỡng ong thu hoạch mật ong (BeeNote), Thu mua bảo quản chế biên (BeeHoney) và truy xuất nguồn gốc (BeeCheck). Đặc biệt BeeNote có kết nối với các cảm biến nhiệt độ, ẩm độ, âm thanh, hình ảnh và trọng lượng đàn ong. Người nuôi ong sẽ chăm sóc và khai thác mật đúng kỹ thuật, các công ty đầu mối xuất khẩu quản lý chất lượng tốt hơn, đối tác thương mại có thể kiểm tra cả quá trình nuôi ong, khai thác, bao quản đóng gói và vận chuyển."
+    },
+    "section-beecare": {
+        "heading": "Đặt ngay lịch tư vấn với chúng tôi để giải quyết các vấn đề của bạn",
+        "desc": "Vui lòng để lại thông tin, chúng tôi sẽ liên hệ với bạn trong thời gian sớm nhất.",
+        "btn": "Xác nhận",
+        "fullname": "Họ và Tên:",
+        "email": "Email:",
+        "phone": "Điện thoại:",
+        "message": "Tin nhắn:",
+        "writePhoneNumber": "Vui lòng nhập số điện thoại",
+        "writeEmail": "Vui lòng nhập email",
+        "writeFullname": "Vui lòng nhập họ và tên",
+        "writeMessage": "Nhập nội dung tin nhắn"
+    },
+    "footer": {
+        "location": " Vị trí: Phòng 910, tòa B1, Đại học Bách Khoa Hà Nội",
+        "phone": "Điện thoại",
+        "navigate": "Điều hướng",
+        "policy": "Chính sách bảo mật",
+        "support": "Hỗ trợ"
+    },
+    "login": {
+        "login": "Đăng nhập",
+        "username": "Tên đăng nhập",
+        "password": "Mật khẩu",
+        "userpass-wrong": "Sai tên đăng nhập hoặc mật khẩu!"
+    },
+    "menu": {
+        "system": {
+            "header": "Hệ thống",
+            "system-administrator": {
+                "header": "Quản trị hệ thống",
+                "user-manage": "Quản lý người sử dụng",
+                "user-redux": "Quản lý user redux"
+            },
+            "system-parameter": {
+                "header": "Tham số hệ thống"
+            }
+        }
+    }
+}

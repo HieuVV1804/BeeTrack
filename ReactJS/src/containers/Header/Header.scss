@@ -1,0 +1,88 @@
+.header-container {
+    z-index: 99;
+    display: flex;
+    justify-content: space-between;
+    background: rgb(34, 193, 195);
+    background: linear-gradient(135deg, rgb(121, 190, 113) 0%, rgba(253, 187, 45, 1) 100%);
+    color: black;
+    height: 60px;
+    position: relative;
+
+    .header-language {
+        margin: auto 20px auto auto;
+        display: flex;
+
+        .welcome {
+            font-size: 16px;
+            font-weight: 600;
+            margin-right: 20px;
+        }
+
+        .header-language-logo {
+            list-style: none;
+            position: relative;
+            color: white;
+
+            &::after {
+                content: "";
+                position: absolute;
+                width: 60px;
+                height: 30px;
+                right: 0;
+                left: -20px;
+                top: 26px;
+                background-color: transparent;
+            }
+
+            &:hover {
+                cursor: pointer;
+
+                .sub-language {
+                    display: block;
+                }
+            }
+
+            .sub-language {
+                position: absolute;
+                color: black;
+                display: none;
+                margin-top: 18px;
+                background-color: black;
+                box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+                border-radius: 3px;
+                right: -40px;
+                width: 100px;
+
+
+                .language {
+                    color: white;
+                    display: block;
+                    line-height: 40px;
+                    font-size: 16px;
+                    font-weight: 500;
+                    margin-left: 14px;
+
+                    &:hover {
+                        color: #f7d800;
+                    }
+
+                }
+            }
+        }
+    }
+
+    .btn-logout {
+        color: white;
+        line-height: 60px;
+        height: 60px;
+        padding: 0 10px;
+
+        &:hover {
+            background-color: wheat;
+        }
+
+        i {
+            font-size: 18px;
+        }
+    }
+}
