@@ -82,6 +82,11 @@
             "system-parameter": {
                 "header": "System-parameter"
             }
+        },
+        "admin": {
+            "manage-user": "Manage User",
+            "manage-admin": "Manage Admin",
+            "manage-expert": "Manage Expert"
         }
     }
 }

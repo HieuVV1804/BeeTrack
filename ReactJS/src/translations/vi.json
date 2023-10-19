@@ -82,6 +82,13 @@
             "system-parameter": {
                 "header": "Tham số hệ thống"
             }
+        },
+        "admin": {
+            "manage-user": "Người dùng",
+            "manage-admin": "Quản lý Admin",
+            "manage-expert": "Quản lý chuyên gia",
+            "crud": "User",
+            "crud-redux": "CRUD User"
         }
     }
 }
